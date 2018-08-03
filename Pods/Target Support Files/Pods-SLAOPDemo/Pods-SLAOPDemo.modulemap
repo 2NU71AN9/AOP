@@ -1,0 +1,6 @@
+framework module Pods_SLAOPDemo {
+  umbrella header "Pods-SLAOPDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

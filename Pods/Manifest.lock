@@ -1,0 +1,28 @@
+PODS:
+  - Aspects (1.4.1)
+  - JLRoutes (2.1)
+  - ReactiveObjC (3.1.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Aspects
+  - JLRoutes
+  - ReactiveObjC
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Aspects
+    - JLRoutes
+    - ReactiveObjC
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  JLRoutes: d755245322b94227662ea3e43492fdca94e05c5b
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 270a3f27e2d6657684ce5f301c44b1a980c916f9
+
+COCOAPODS: 1.5.2
