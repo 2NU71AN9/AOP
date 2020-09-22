@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)sl_bindViewForController{
+    
     self.view = [[SLFirstView alloc]initWithFrame:[UIScreen mainScreen].bounds];
 }
 
